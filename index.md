@@ -12,13 +12,13 @@
 2. Second item
 3. Thrid item
 
-'code'
+`code` 
 
 ---
 
-[website](https://kyle589.github.io/cse15l-lab-reports/)
+[watermelon website](https://www.gardeningknowhow.com/edible/fruits/watermelon/pick-a-watermelon.htm)
 
-![watermelon](http://clipart-library.com/image_gallery2/Watermelon-Free-Download-PNG.png)
+![watermelon](https://www.gardeningknowhow.com/wp-content/uploads/2021/05/whole-and-slices-watermelon.jpg)
 
 
 
