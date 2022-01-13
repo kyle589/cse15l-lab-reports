@@ -18,7 +18,7 @@
 
 [website](https://kyle589.github.io/cse15l-lab-reports/)
 
-![watermelon](![image](https://user-images.githubusercontent.com/52770217/149390421-5b556ada-5481-4745-9784-8925bd4d604f.png))
+![watermelon](http://clipart-library.com/image_gallery2/Watermelon-Free-Download-PNG.png)
 
 
 
