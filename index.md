@@ -4,13 +4,12 @@
 
 **some words that should be bold**
 
-*italicized words*
-
 > blockquote
 
 1. First item
 2. Second item
 3. Thrid item
+4. Fourth item
 
 `code` 
 
