@@ -1,6 +1,6 @@
 ## Installing VScode
 * Install VScode through the link [VSCode](https://code.visualstudio.com/)
-* You can install any language you would like. In this class I installed Java.
+* You can install any language you would like. In this class I installed Java
 
 ![Image](VSCodePic.png)
 
@@ -10,8 +10,8 @@
 * You may need to reset your password in order to acess the information
 * Next open a terminal in VSCode and the following command:   
 `ssh cs15lwi22zzz@ieng6.ucsd.edu`
-* zzz should be repalced with your account specific info
-* Type yes if get a messsage asking if you want to contiue connecting
+* zzz should be replaced with your account specific info
+* Type yes if you get a messsage asking if you want to contiue connecting
 * Then enter your password (it is the same one used to access your UCSD account)
 
 Your terminal should look like this:
@@ -40,7 +40,7 @@ One example:
 After you log back into the server using `ssh` this is what you should get:
 ![Image](ScpEx1.png)
 
-* You can now use javac and java to run `WhereAmI.java` on the server
+* You can now use javac and java to run **WhereAmI.java** on the server
 
 ## Setting an SSH Key
 * You will be creating a public key on the server and a private key on the client to log into the server without a password
