@@ -65,10 +65,14 @@ The process should look like this:
 * The **Up Arrow** allows you to  run a previoius command you typed
 * `ssh cs15lwi22zzz@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`
 * This command allows you to run javac and java on the server without logging in'
-* If you don't use quotations only the first command will run on the sever
+* Also if you are running the code a lot, it may be helpful to add a comment with just the command line text to copy and paste it when you want.
 
 Example:
 ![Image](OptimizingEx1.png)
+
+* 7 keystokes (Command+c, Command+v, enter, mouse clicks)
+* 2 keystrokes after inputting for the first time (up arrow and enter)
+
 
 
 
