@@ -67,7 +67,7 @@ The process should look like this:
 * This command allows you to run javac and java on the server without logging in'
 * Also if you are running the code a lot, it may be helpful to add a comment with just the command line text to copy and paste it when you want.
 
-Example:
+Example: Copying WhereAmI.java to the remote server and running it on the server
 ![Image](OptimizingEx1.png)
 
 * 7 keystokes (Command+c, Command+v, enter, mouse clicks)
