@@ -7,7 +7,7 @@ Symptom where the the program prints the .png when image is provided in the mark
 
 ![Image](codeChange1.png)
 
-The symptom was that when the program was provided a markdown file with an image it printed out the .png when it should only print out links. So the bug in the program was that there was nothing to check an image was provided instead of a link. To fix this, I added an if statement that would check for images.
+The symptom was that when the program was provided a markdown file with an image it printed out the .png when it should only print out links. This would occur because the code would get and print any contents inside the (), no matter what was inside. So the bug in the program was that there was nothing to check an image was provided instead of a link. To fix this, I added an if statement that would check for images.
 
 
 ## Code Change 2
@@ -19,7 +19,7 @@ Symptom where the program prints out what is in the brackets even when there is 
 
 ![Image](CodeChange2.png)
 
-The symptom was that when the program was provided a markdown file with no link inside the brackets, it printed out whatever was in it. So the bug in the program was that there was nothing to check if what was provided in the brackets was a link or not. There are many different beginnings and endings to links, so in this case I decided to focus on coding that the contents would not print if there were spaces.
+The symptom was that when the program was provided a markdown file with no link inside the brackets, it printed out whatever was in it. This is because the code only looked for the contents inside the () and printed it no matter what was inside. So the bug in the program was that there was nothing to check if what was provided in the brackets was a link or not. There are many different beginnings and endings to links, so in this case I decided to focus on coding that the contents would not print if there were spaces.
 
 ## Code Change 3
 
