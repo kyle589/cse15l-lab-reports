@@ -1,4 +1,4 @@
-# Copying whole directorie with `scp -r`
+# Copying whole directory with `scp -r`
 
 ## Copying whole markdown-parse directory to ieng6 account
 ![Image](CopyDirectory.png)
